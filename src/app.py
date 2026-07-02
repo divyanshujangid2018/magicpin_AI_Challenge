@@ -113,7 +113,7 @@ async def ui():
   <div class="ep"><span class="badge post">POST</span><code>/v1/reply</code><span>multi-turn reply</span></div>
 
   <footer>
-    <a href="https://github.com/divyanshujangid">GitHub</a> ·
+    <a href="https://github.com/divyanshujangid2018">GitHub</a> ·
     magicpin Vera Challenge 2026
   </footer>
 </body>
